@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "TEST BIG OL TEST"
+date:   2017-03-30 13:46:40
+categories: jekyll update
+---
+this is nothing more than a test of the posting system. does this thing really work so simply?
+
+[jekyll]:      http://jekyllrb.com
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-help]: https://github.com/jekyll/jekyll-help
